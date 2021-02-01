@@ -1,0 +1,114 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* #381f75 #512da8 #7357b9 */
+body {
+    font-family: 'Noto Sans SC', sans-serif;
+    background: #e0c9ff;
+}
+header {
+    background: #7357b9;
+    padding: 4rem 0 9rem 0;
+    text-align: center;
+}
+header h1 {
+    color: #fff;
+    font-weight: lighter;
+}
+h2 {
+    margin: 3.2rem 0 0.8rem 0;
+    font-weight: normal;
+}
+footer {
+    text-align: center;
+    color: #512da8;
+    padding: 2rem;
+}
+.container {
+    width: min(90vw, 500px);
+    margin: auto;
+}
+.card {
+    background: white;
+    padding: 1.5rem 2rem;
+    border-radius: 0.25rem;
+    color: #381f75;
+    margin: 25px 0;
+}
+.card h3 {
+    font-weight: normal;
+    font-size: 1rem;
+}
+.card p {
+    font-size: 2rem;
+    line-height: 3rem;
+    margin-top: 1rem
+}
+.card.total {
+    background: #512da8;
+    color: #fff
+}
+table {
+    width: 100%;
+    border-spacing: 0 0.5rem;
+}
+table tr {
+    opacity: 0.65;
+    transition: ease-in-out 0.2s;
+}
+table tr:hover{
+    opacity: 1;
+}
+table th {
+    background: white;
+    padding: 1rem 2rem ;
+    text-align: left;
+    color: #7357b9;
+}
+table td {
+    background: white;
+    padding: 1rem 2rem;
+    color: #381f75;
+}
+
+table thead tr th,
+table tbody tr td{
+    border-radius: 0.20rem 0 0 0.20rem;
+}
+.description {
+    color: #381f75;
+}
+.expense {
+    color: crimson;
+}
+.income {
+    color: #30abfd;
+}
+.date {
+    color: gray;
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
+#balance {
+    margin-top: -6rem;
+}
+
+#balance h2 {
+    color: #fff;
+    margin-top: 0;
+}
+#transaction h2 {
+    color: #512da8
+}
