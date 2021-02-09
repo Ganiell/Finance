@@ -7,11 +7,12 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<p><a href="https://ganiell.github.io/Finance/"/></p>
 
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://github.com/Ganiell/Finance/blob/master/assets/desktop.png" width="300px">
+  <img alt="dev.finances" src="https://github.com/Ganiell/Finance/blob/master/assets/desktop.png" width="500px">
 </p>
 
 ## 🚀 Tecnologias
