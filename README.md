@@ -9,13 +9,13 @@
 
 
 <p align="center">
-  <a href="https://ganiell.github.io/Finance/">Try it/</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://ganiell.github.io/Finance/">Try it/</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://github.com/Ganiell/Finance/blob/master/assets/desktop.png" width="500px">
+  <img alt="dev.finances" src="https://github.com/Ganiell/Finance/blob/master/assets/desktop.png" width="700px">
 </p>
 
 ## 🚀 Tecnologias
