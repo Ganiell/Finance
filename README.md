@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://github.com/Ganiell/Finance/blob/master/assets/desktop.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/Ganiell/Finance/blob/master/assets/desktop.png" width="300px">
 </p>
 
 ## 🚀 Tecnologias
