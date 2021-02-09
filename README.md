@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://ganiell.github.io/Finance/">Try it/</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="https://ganiell.github.io/Finance/">Try it</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
