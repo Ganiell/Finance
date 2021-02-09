@@ -7,7 +7,10 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p><a href="https://ganiell.github.io/Finance/"/></p>
+
+<p align="center">
+  <a href="https://ganiell.github.io/Finance/">Try it/</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
 <br>
 
